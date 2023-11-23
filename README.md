@@ -10,3 +10,4 @@ NEXT_BILLBOARD_ID=67d366bc-39bf-4c3e-8458-a3baa77a1dad
 # Enter store name
 NEXT_PUBLIC_STORE_NAME=My Store
 ```
+
