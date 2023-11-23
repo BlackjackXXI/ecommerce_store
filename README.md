@@ -11,3 +11,8 @@ NEXT_BILLBOARD_ID=67d366bc-39bf-4c3e-8458-a3baa77a1dad
 NEXT_PUBLIC_STORE_NAME=My Store
 ```
 
+## Installation:
+```
+npm install .
+npm run dev
+```
