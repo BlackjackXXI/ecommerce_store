@@ -16,3 +16,7 @@ NEXT_PUBLIC_STORE_NAME=My Store
 npm install .
 npm run dev
 ```
+
+## Added features/fixes
+- Added Store Name on env
+- Added billboard id on env
