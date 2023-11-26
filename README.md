@@ -1,5 +1,7 @@
 # ecommerce_store
 
+Deployed sample store: https://myecomproj-55lzbt7xm-kntjsprr.vercel.app/
+
 ## Sample env
 ```
 # Enter url of admin api `{url}/api/{id}`
